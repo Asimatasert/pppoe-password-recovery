@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Genel Bakış
-Bu araç, PPPoE sunucusu oluşturarak Huawei HG255s modeminden kimlik doğrulama girişimlerini yakalayarak PPPoE kimlik bilgilerini kurtarmanıza olanak tanır. Özellikle yeni bir router kurulumu yaparken ve ISS tarafından sağlanan, eski modeminizde saklanan kimlik bilgilerine ihtiyacınız olduğunda kullanışlıdır.
+Bu araç, PPPoE sunucusu oluşturarak modeminden kimlik doğrulama girişimlerini yakalayarak PPPoE kimlik bilgilerini kurtarmanıza olanak tanır. Özellikle yeni bir router kurulumu yaparken ve ISS tarafından sağlanan, eski modeminizde saklanan kimlik bilgilerine ihtiyacınız olduğunda kullanışlıdır.
 
 ## Özellikler
 - PPPoE kullanıcı adı ve şifresini otomatik olarak çıkarır
