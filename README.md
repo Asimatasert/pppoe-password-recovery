@@ -20,13 +20,13 @@ Bu araç, PPPoE sunucusu oluşturarak modeminden kimlik doğrulama girişimlerin
 
 1. Bu depoyu klonlayın veya betiği indirin:
    ```bash
-   git clone https://github.com/kullaniciadi/pppoe_password_recovery.git
-   cd pppoe_password_recovery
+   git clone https://github.com/kullaniciadi/pppoe-password-recovery.git
+   cd pppoe-password-recovery
    ```
 
 2. Betiği çalıştırılabilir yapın:
    ```bash
-   chmod +x pppoe_recovery.sh
+   chmod +x pppoe-recovery.sh
    ```
 
 ## Fiziksel Kurulum
@@ -38,7 +38,7 @@ Bu araç, PPPoE sunucusu oluşturarak modeminden kimlik doğrulama girişimlerin
 Betiği root olarak veya sudo yetkileriyle çalıştırın:
 
 ```bash
-sudo ./pppoe_recovery.sh
+sudo ./pppoe-recovery.sh
 ```
 
 Ekrandaki yönergeleri izleyin:
